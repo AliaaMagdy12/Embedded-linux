@@ -1,0 +1,3 @@
+/home/ubuntu/test/build2/CMakeFiles/my_executable.dir
+/home/ubuntu/test/build2/CMakeFiles/edit_cache.dir
+/home/ubuntu/test/build2/CMakeFiles/rebuild_cache.dir

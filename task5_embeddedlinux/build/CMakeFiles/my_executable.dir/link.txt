@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_executable.dir/main.c.o CMakeFiles/my_executable.dir/multiplication.c.o CMakeFiles/my_executable.dir/division.c.o CMakeFiles/my_executable.dir/addition.c.o CMakeFiles/my_executable.dir/subtraction.c.o -o my_executable 
